@@ -1,6 +1,4 @@
 # Superstore-sales-dashboard
-Power BI dashboard project analyzing Superstore sales data
-📊 Superstore Sales Dashboard (Power BI)
 
 A Power BI dashboard designed to provide actionable insights into sales, profit, and order trends using the Superstore dataset. This project highlights revenue drivers across regions, customer segments, and product categories helping business stakeholders make informed decisions.
 
